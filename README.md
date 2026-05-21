@@ -31,7 +31,7 @@ Atualmente, trabalho focado na camada de **Inteligência de Dados e BI**, onde m
 * **Data Visualization:** Criação de dashboards estratégicos no **Looker Studio**.
 * **Automação Inteligente:** Estudo e implementação de fluxos de trabalho com **n8n** para otimização de processos de dados e integração de IA.
 * **Desenvolvimento BackEnd (Node.js):** Atuação em API Rest com endpinst para consultas de outras aplicações.
-* **Desenvolvimento FrontEnd (ReactJS, TypeScript):**Atuação em Frontend para elaboração de soluções das aplicações para melhor experiencia e fruidez.
+* **Desenvolvimento FrontEnd (ReactJS, TypeScript):** Atuação em Frontend para elaboração de soluções das aplicações para melhor experiencia e fruidez.
 
 ---
 
