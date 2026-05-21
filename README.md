@@ -39,7 +39,7 @@ Atualmente, trabalho focado na camada de **Inteligência de Dados e BI**, onde m
 *Estou desenvolvendo projetos autorais para consolidar meus conhecimentos em:*
 * **Inteligência Artificial:** Aplicação de LLMs em processos de análise de dados.
 * **Automações com n8n:** Conectar bancos de dados, APIs e ferramentas de produtividade.
-* **Arquitetura de Dados:** Integração de sistemas modernos usando meu background em Node.js.
+* **Ciencia de Dados:** Elaborando insights para melhor visualização e tomadas de decisões.
 
 ---
 
