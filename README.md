@@ -4,7 +4,7 @@
 Sou um profissional de tecnologia com sólida base em desenvolvimento **JavaScript e Node.js**, atualmente focado na área de **Dados e Automação**. Unindo minha experiência em construção de aplicações escaláveis com o poder da análise estatística, arquitetura de dados e Inteligência Artificial.
 
 * 🎓 **Pós-graduando:** Ciência de Dados e Big Data Analytics pela Estácio.
-* 🎯 **Foco atual:** Engenharia de Dados, Business Intelligence e Automação de Processos (IA).
+* 🎯 **Foco atual:** Ciência de Dados, Business Intelligence e Automação de Processos (IA).
 * 🚀 **Objetivo:** Transformar grandes volumes de dados brutos em insights estratégicos e fluxos de trabalho automatizados.
 
 ---
@@ -18,7 +18,7 @@ Sou um profissional de tecnologia com sólida base em desenvolvimento **JavaScri
 
 **IA & Automação:**
 * **Ferramentas:** n8n (Workflows Automatizados), Integração de APIs de IA.
-* **Desenvolvimento:** JavaScript (ES6+), Node.js (Background Dev).
+* **Desenvolvimento:** JavaScript (ES6+), ReactJS (Frontend), Node.js (Background Dev).
 
 ---
 
@@ -30,6 +30,8 @@ Atualmente, trabalho focado na camada de **Inteligência de Dados e BI**, onde m
 * **Análise de Dados:** Transformação de dados brutos em indicadores de negócio (KPIs).
 * **Data Visualization:** Criação de dashboards estratégicos no **Looker Studio**.
 * **Automação Inteligente:** Estudo e implementação de fluxos de trabalho com **n8n** para otimização de processos de dados e integração de IA.
+* **Desenvolvimento BackEnd (Node.js)
+* **Desenvolvimento FrontEnd (ReactJS, TypeScript)
 
 ---
 
